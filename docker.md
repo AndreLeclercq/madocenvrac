@@ -25,3 +25,8 @@ On peu donc créer sa propre image pour son usage personnel, mais le gros avanta
 [Portainer - Container management](https://www.portainer.io)
 
 [Docker Hub](https://hub.docker.com)
+
+## Apprendre
+
+[Comprendre Docker en 2 minutes (série de vidéos)](https://www.youtube.com/watch?v=3hol91BkYHU)
+[Débuter de zéro avec Docker](https://www.youtube.com/watch?v=SXB6KJ4u5vg)
